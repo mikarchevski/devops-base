@@ -1,5 +1,5 @@
-1. [Фундамент](#1-фундамент)
-2. [Inventory (Инвентарь)](#2-inventory-инвентарь)
+1. Фундамент [Ansible-base.md] (./Articles/Ansible-base.md))
+2. [Inventory (Инвентарь)][Ansible-Inventory.md](./Articles/Ansible-Inventory.md)
 3. [Ad hoc команды](#3-ad-hoc-команды)
 4. [Playbook (Плейбуки)](#4-playbook-плейбуки)
 5. [Handlers (Обработчики)](#5-handlers-обработчики)
